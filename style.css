@@ -15,3 +15,38 @@ ul {
 display: flex;
 gap: 20px;
 }
+
+button {
+font-family: 'Times New Roman', Times, serif;
+border-radius: 40px;
+    display: inline-table;
+    color: black;
+    padding: 10px 20px;
+    background-color: rgb(230, 55, 55)
+    
+}
+
+p {
+
+color: rgb(0, 0, 0);
+
+
+}
+
+h1 {
+
+    color: rgb(190, 5, 5);
+
+
+}
+    
+
+.sessao-numero {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #e17f7f;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    border-radius: 18px
+
+}
