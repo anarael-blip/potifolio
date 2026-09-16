@@ -50,3 +50,23 @@ h1 {
     border-radius: 18px
 
 }
+
+.quadrado {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+  height: 150px;
+  background-color: #ffa5a5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    border-radius: 18px
+    
+}
+
+.dorminhoca {
+    display: flex;
+    gap: 150px;
+}
